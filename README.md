@@ -43,7 +43,7 @@ npm i
 npm run dev
 ```
 
-Go to http://localhost:3000
+Go to http://localhost:8080
 
 ## Roadmap
 
